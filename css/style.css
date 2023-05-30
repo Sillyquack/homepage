@@ -169,6 +169,7 @@ span {
 
 img {
   width: 100%;
+  max-height: 175px;
 }
 
 figure {
