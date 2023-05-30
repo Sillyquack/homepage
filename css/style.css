@@ -171,6 +171,8 @@ span {
 
 img {
   width: 100%;
+}
+#work img {
   max-height: 175px;
 }
 
