@@ -171,10 +171,6 @@ img {
   width: 100%;
 }
 
-div.home-portfolio-piece img {
-  max-height: 180px;
-}
-
 figure {
   margin: 0;
 }
@@ -785,9 +781,13 @@ footer .social-icons li i {
 
 @media only screen and (min-width:1200px) {
 
-  /*Desktop styles here*/
+  /*Desktop styles*/
   .content-wrapper {
     max-width: 1450px;
+  }
+
+  div.home-portfolio-piece img {
+    max-height: 159.44px;
   }
 
   /* font styles */
