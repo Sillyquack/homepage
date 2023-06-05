@@ -941,6 +941,10 @@ footer .social-icons li i {
     width: 30%;
   }
 
+  .home-portfolio-piece figure {
+    height: 180px;
+  }
+
   /* skills */
   .skill,
   .tool {
